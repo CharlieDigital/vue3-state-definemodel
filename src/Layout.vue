@@ -6,6 +6,7 @@
       <RouterLink to="/example3">Example 3</RouterLink>
       <RouterLink to="/example4">Example 4</RouterLink>
       <RouterLink to="/example5">Example 5</RouterLink>
+      <RouterLink to="/example6">Example 6</RouterLink>
     </div>
     <RouterView></RouterView>
   </div>

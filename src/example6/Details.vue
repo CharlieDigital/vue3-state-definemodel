@@ -52,4 +52,4 @@ label {
   font-weight: bold;
   margin-top: 4px;
 }
-</style>
+</style>./useDetailsEditor.ts
